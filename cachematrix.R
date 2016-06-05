@@ -23,7 +23,7 @@
     <meta name="viewport" content="width=device-width">
     
     
-    <title>coursera-rprog-2-lexical-scoping/README.md at master · ezag/coursera-rprog-2-lexical-scoping · GitHub</title>
+    <title>coursera-rprog-2-lexical-scoping/cachematrix.R at master · ezag/coursera-rprog-2-lexical-scoping · GitHub</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -55,7 +55,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="4615C568:4F10:2EC6FED:5753A40E" name="octolytics-dimension-request_id" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="4615C568:4F0F:2710CAA:5753A41A" name="octolytics-dimension-request_id" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -68,7 +68,7 @@
     <meta name="user-login" content="">
 
         <meta name="expected-hostname" content="github.com">
-      <meta name="js-proxy-site-detection-payload" content="NmZiMTIxNGIxNWU1ZTQzN2NjMzE2YWMyZDY3YTA0ZmU0NjNhZjUwYzNlYWJlYWUxMWU2MzgyMDkxOWYxMmIwN3x7InJlbW90ZV9hZGRyZXNzIjoiNzAuMjEuMTk3LjEwNCIsInJlcXVlc3RfaWQiOiI0NjE1QzU2ODo0RjEwOjJFQzZGRUQ6NTc1M0E0MEUiLCJ0aW1lc3RhbXAiOjE0NjUwOTkyNzh9">
+      <meta name="js-proxy-site-detection-payload" content="YmUwZDljNTMwYTllNTkzM2UwMDQyNzA1YzgzZTBkYmEwNmQxMWZlYWQzZmI2MjI4NjZlNmEyODE2ZDMxODk1N3x7InJlbW90ZV9hZGRyZXNzIjoiNzAuMjEuMTk3LjEwNCIsInJlcXVlc3RfaWQiOiI0NjE1QzU2ODo0RjBGOjI3MTBDQUE6NTc1M0E0MUEiLCJ0aW1lc3RhbXAiOjE0NjUwOTkyOTB9">
 
 
       <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#4078c0">
@@ -88,7 +88,7 @@
   <link href="https://github.com/ezag/coursera-rprog-2-lexical-scoping/commits/master.atom" rel="alternate" title="Recent Commits to coursera-rprog-2-lexical-scoping:master" type="application/atom+xml">
 
 
-      <link rel="canonical" href="https://github.com/ezag/coursera-rprog-2-lexical-scoping/blob/master/README.md" data-pjax-transient>
+      <link rel="canonical" href="https://github.com/ezag/coursera-rprog-2-lexical-scoping/blob/master/cachematrix.R" data-pjax-transient>
   </head>
 
 
@@ -126,7 +126,7 @@
 
       <div class="site-header-actions">
             <a class="btn btn-primary site-header-actions-btn" href="/join?source=header-repo" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
-          <a class="btn site-header-actions-btn mr-2" href="/login?return_to=%2Fezag%2Fcoursera-rprog-2-lexical-scoping%2Fblob%2Fmaster%2FREADME.md" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+          <a class="btn site-header-actions-btn mr-2" href="/login?return_to=%2Fezag%2Fcoursera-rprog-2-lexical-scoping%2Fblob%2Fmaster%2Fcachematrix.R" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
       </div>
 
         <nav class="site-header-nav site-header-nav-secondary">
@@ -273,9 +273,9 @@
 
     
 
-<a href="/ezag/coursera-rprog-2-lexical-scoping/blob/37b85ad8fc2ff553d5b767f8a6c5a94ee814ad10/README.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/ezag/coursera-rprog-2-lexical-scoping/blob/37b85ad8fc2ff553d5b767f8a6c5a94ee814ad10/cachematrix.R" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:4d17e9c01505e165cb5992d1c61fd3ab -->
+<!-- blob contrib key: blob_contributors:v21:115a29e88dcd71eefbed12aa0affd1b0 -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -317,7 +317,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/ezag/coursera-rprog-2-lexical-scoping/blob/master/README.md"
+               href="/ezag/coursera-rprog-2-lexical-scoping/blob/master/cachematrix.R"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -354,22 +354,22 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/ezag/coursera-rprog-2-lexical-scoping"><span>coursera-rprog-2-lexical-scoping</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/ezag/coursera-rprog-2-lexical-scoping"><span>coursera-rprog-2-lexical-scoping</span></a></span></span><span class="separator">/</span><strong class="final-path">cachematrix.R</strong>
   </div>
 </div>
 
 
   <div class="commit-tease">
       <span class="right">
-        <a class="commit-tease-sha" href="/ezag/coursera-rprog-2-lexical-scoping/commit/7f657dd22ac20d22698c53b23f0057e1a12c09b7" data-pjax>
-          7f657dd
+        <a class="commit-tease-sha" href="/ezag/coursera-rprog-2-lexical-scoping/commit/37b85ad8fc2ff553d5b767f8a6c5a94ee814ad10" data-pjax>
+          37b85ad
         </a>
-        <relative-time datetime="2014-04-22T14:09:22Z">Apr 22, 2014</relative-time>
+        <relative-time datetime="2014-12-05T14:27:03Z">Dec 5, 2014</relative-time>
       </span>
       <div>
-        <img alt="@rdpeng" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/9612?v=3&amp;s=40" width="20" />
-        <a href="/rdpeng" class="user-mention" rel="contributor">rdpeng</a>
-          <a href="/ezag/coursera-rprog-2-lexical-scoping/commit/7f657dd22ac20d22698c53b23f0057e1a12c09b7" class="message" data-pjax="true" title="More typos">More typos</a>
+        <img alt="@ezag" class="avatar" height="20" src="https://avatars1.githubusercontent.com/u/385643?v=3&amp;s=40" width="20" />
+        <a href="/ezag" class="user-mention" rel="author">ezag</a>
+          <a href="/ezag/coursera-rprog-2-lexical-scoping/commit/37b85ad8fc2ff553d5b767f8a6c5a94ee814ad10" class="message" data-pjax="true" title="Implement caching the inverse of a matrix">Implement caching the inverse of a matrix</a>
       </div>
 
     <div class="commit-tease-contributors">
@@ -377,8 +377,8 @@
         <strong>2</strong>
          contributors
       </button>
-          <a class="avatar-link tooltipped tooltipped-s" aria-label="rdpeng" href="/ezag/coursera-rprog-2-lexical-scoping/commits/master/README.md?author=rdpeng"><img alt="@rdpeng" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/9612?v=3&amp;s=40" width="20" /> </a>
-    <a class="avatar-link tooltipped tooltipped-s" aria-label="gustavdelius" href="/ezag/coursera-rprog-2-lexical-scoping/commits/master/README.md?author=gustavdelius"><img alt="@gustavdelius" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/1340713?v=3&amp;s=40" width="20" /> </a>
+          <a class="avatar-link tooltipped tooltipped-s" aria-label="rdpeng" href="/ezag/coursera-rprog-2-lexical-scoping/commits/master/cachematrix.R?author=rdpeng"><img alt="@rdpeng" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/9612?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="ezag" href="/ezag/coursera-rprog-2-lexical-scoping/commits/master/cachematrix.R?author=ezag"><img alt="@ezag" class="avatar" height="20" src="https://avatars1.githubusercontent.com/u/385643?v=3&amp;s=40" width="20" /> </a>
 
 
     </div>
@@ -391,8 +391,8 @@
             <a href="/rdpeng">rdpeng</a>
           </li>
           <li class="facebox-user-list-item">
-            <img alt="@gustavdelius" height="24" src="https://avatars2.githubusercontent.com/u/1340713?v=3&amp;s=48" width="24" />
-            <a href="/gustavdelius">gustavdelius</a>
+            <img alt="@ezag" height="24" src="https://avatars3.githubusercontent.com/u/385643?v=3&amp;s=48" width="24" />
+            <a href="/ezag">ezag</a>
           </li>
       </ul>
     </div>
@@ -403,9 +403,9 @@
   <div class="file-actions">
 
     <div class="btn-group">
-      <a href="/ezag/coursera-rprog-2-lexical-scoping/raw/master/README.md" class="btn btn-sm " id="raw-url">Raw</a>
-        <a href="/ezag/coursera-rprog-2-lexical-scoping/blame/master/README.md" class="btn btn-sm js-update-url-with-hash">Blame</a>
-      <a href="/ezag/coursera-rprog-2-lexical-scoping/commits/master/README.md" class="btn btn-sm " rel="nofollow">History</a>
+      <a href="/ezag/coursera-rprog-2-lexical-scoping/raw/master/cachematrix.R" class="btn btn-sm " id="raw-url">Raw</a>
+        <a href="/ezag/coursera-rprog-2-lexical-scoping/blame/master/cachematrix.R" class="btn btn-sm js-update-url-with-hash">Blame</a>
+      <a href="/ezag/coursera-rprog-2-lexical-scoping/commits/master/cachematrix.R" class="btn btn-sm " rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -426,128 +426,223 @@
   </div>
 
   <div class="file-info">
-      106 lines (86 sloc)
+      50 lines (45 sloc)
       <span class="file-info-divider"></span>
-    4.11 KB
+    1.11 KB
   </div>
 </div>
 
   
-  <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><h3><a id="user-content-introduction" class="anchor" href="#introduction" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Introduction</h3>
 
-<p>This second programming assignment will require you to write an R
-function that is able to cache potentially time-consuming computations.
-For example, taking the mean of a numeric vector is typically a fast
-operation. However, for a very long vector, it may take too long to
-compute the mean, especially if it has to be computed repeatedly (e.g.
-in a loop). If the contents of a vector are not changing, it may make
-sense to cache the value of the mean so that when we need it again, it
-can be looked up in the cache rather than recomputed. In this
-Programming Assignment you will take advantage of the scoping rules of
-the R language and how they can be manipulated to preserve state inside
-of an R object.</p>
+  <div itemprop="text" class="blob-wrapper data type-r">
+      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c">## Functions that cache the inverse of a matrix</span></td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c">##</span></td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c">## Usage example:</span></td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c">##</span></td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c">## &gt; source(&#39;cachematrix.R&#39;)</span></td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c">## &gt; m &lt;- makeCacheMatrix(matrix(c(2, 0, 0, 2), c(2, 2)))</span></td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c">## &gt; cacheSolve(m)</span></td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c">## [,1] [,2]</span></td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-c">## [1,]  0.5  0.0</span></td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-c">## [2,]  0.0  0.5</span></td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-c">## Create a special &quot;matrix&quot;, which is a list containing</span></td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-c">## a function to</span></td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-c">##   - set the value of the matrix</span></td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-c">##   - get the value of the matrix</span></td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line"><span class="pl-c">##   - set the value of the inverse matrix</span></td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-c">##   - get the value of the inverse matrix</span></td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-en">makeCacheMatrix</span> <span class="pl-k">&lt;-</span> <span class="pl-k">function</span>(<span class="pl-v">x</span> <span class="pl-k">=</span> <span class="pl-k">matrix</span>()) {</td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">i</span> <span class="pl-k">&lt;-</span> <span class="pl-c1">NULL</span></td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">    <span class="pl-en">set</span> <span class="pl-k">&lt;-</span> <span class="pl-k">function</span>(<span class="pl-smi">y</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">        <span class="pl-smi">x</span> <span class="pl-k">&lt;&lt;-</span> <span class="pl-smi">y</span></td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">        <span class="pl-smi">i</span> <span class="pl-k">&lt;&lt;-</span> <span class="pl-c1">NULL</span></td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">    <span class="pl-en">get</span> <span class="pl-k">&lt;-</span> <span class="pl-k">function</span>() <span class="pl-smi">x</span></td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">    <span class="pl-en">setinverse</span> <span class="pl-k">&lt;-</span> <span class="pl-k">function</span>(<span class="pl-smi">inv</span>) <span class="pl-smi">i</span> <span class="pl-k">&lt;&lt;-</span> <span class="pl-smi">inv</span></td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">    <span class="pl-en">getinverse</span> <span class="pl-k">&lt;-</span> <span class="pl-k">function</span>() <span class="pl-smi">i</span></td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">list</span>(</td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">        <span class="pl-v">set</span> <span class="pl-k">=</span> <span class="pl-smi">set</span>,</td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">        <span class="pl-v">get</span> <span class="pl-k">=</span> <span class="pl-smi">get</span>,</td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">        <span class="pl-v">setinverse</span> <span class="pl-k">=</span> <span class="pl-smi">setinverse</span>,</td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">        <span class="pl-v">getinverse</span> <span class="pl-k">=</span> <span class="pl-smi">getinverse</span></td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">    )</td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line"><span class="pl-c">## Calculate the inverse of the special &quot;matrix&quot; created with the above</span></td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line"><span class="pl-c">## function, reusing cached result if it is available</span></td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class="pl-en">cacheSolve</span> <span class="pl-k">&lt;-</span> <span class="pl-k">function</span>(<span class="pl-smi">x</span>, <span class="pl-k">...</span>) {</td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">i</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">x</span><span class="pl-k">$</span>getinverse()</td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">if</span>(<span class="pl-k">!</span>is.null(<span class="pl-smi">i</span>)) {</td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">        message(<span class="pl-s"><span class="pl-pds">&quot;</span>getting cached data<span class="pl-pds">&quot;</span></span>)</td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">return</span>(<span class="pl-smi">i</span>)</td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">m</span> <span class="pl-k">&lt;-</span> <span class="pl-smi">x</span><span class="pl-k">$</span>get()</td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">i</span> <span class="pl-k">&lt;-</span> solve(<span class="pl-smi">m</span>, <span class="pl-k">...</span>)</td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">x</span><span class="pl-k">$</span>setinverse(<span class="pl-smi">i</span>)</td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">i</span></td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+</table>
 
-<h3><a id="user-content-example-caching-the-mean-of-a-vector" class="anchor" href="#example-caching-the-mean-of-a-vector" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Example: Caching the Mean of a Vector</h3>
-
-<p>In this example we introduce the <code>&lt;&lt;-</code> operator which can be used to
-assign a value to an object in an environment that is different from the
-current environment. Below are two functions that are used to create a
-special object that stores a numeric vector and caches its mean.</p>
-
-<p>The first function, <code>makeVector</code> creates a special "vector", which is
-really a list containing a function to</p>
-
-<ol>
-<li> set the value of the vector</li>
-<li> get the value of the vector</li>
-<li> set the value of the mean</li>
-<li> get the value of the mean</li>
-</ol>
-
-
-
-<pre><code>makeVector &lt;- function(x = numeric()) {
-        m &lt;- NULL
-        set &lt;- function(y) {
-                x &lt;&lt;- y
-                m &lt;&lt;- NULL
-        }
-        get &lt;- function() x
-        setmean &lt;- function(mean) m &lt;&lt;- mean
-        getmean &lt;- function() m
-        list(set = set, get = get,
-             setmean = setmean,
-             getmean = getmean)
-}
-</code></pre>
-
-<p>The following function calculates the mean of the special "vector"
-created with the above function. However, it first checks to see if the
-mean has already been calculated. If so, it <code>get</code>s the mean from the
-cache and skips the computation. Otherwise, it calculates the mean of
-the data and sets the value of the mean in the cache via the <code>setmean</code>
-function.</p>
-
-<pre><code>cachemean &lt;- function(x, ...) {
-        m &lt;- x$getmean()
-        if(!is.null(m)) {
-                message("getting cached data")
-                return(m)
-        }
-        data &lt;- x$get()
-        m &lt;- mean(data, ...)
-        x$setmean(m)
-        m
-}
-</code></pre>
-
-<h3><a id="user-content-assignment-caching-the-inverse-of-a-matrix" class="anchor" href="#assignment-caching-the-inverse-of-a-matrix" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Assignment: Caching the Inverse of a Matrix</h3>
-
-<p>Matrix inversion is usually a costly computation and there may be some
-benefit to caching the inverse of a matrix rather than computing it
-repeatedly (there are also alternatives to matrix inversion that we will
-not discuss here). Your assignment is to write a pair of functions that
-cache the inverse of a matrix.</p>
-
-<p>Write the following functions:</p>
-
-<ol>
-<li> <code>makeCacheMatrix</code>: This function creates a special "matrix" object
-that can cache its inverse.</li>
-<li> <code>cacheSolve</code>: This function computes the inverse of the special
-"matrix" returned by <code>makeCacheMatrix</code> above. If the inverse has
-already been calculated (and the matrix has not changed), then
-<code>cacheSolve</code> should retrieve the inverse from the cache.</li>
-</ol>
-
-<p>Computing the inverse of a square matrix can be done with the <code>solve</code>
-function in R. For example, if <code>X</code> is a square invertible matrix, then
-<code>solve(X)</code> returns its inverse.</p>
-
-<p>For this assignment, assume that the matrix supplied is always
-invertible.</p>
-
-<p>In order to complete this assignment, you must do the following:</p>
-
-<ol>
-<li> Fork the GitHub repository containing the stub R files at
-<a href="https://github.com/rdpeng/ProgrammingAssignment2">https://github.com/rdpeng/ProgrammingAssignment2</a>
-to create a copy under your own account.</li>
-<li> Clone your forked GitHub repository to your computer so that you can
-edit the files locally on your own machine.</li>
-<li> Edit the R file contained in the git repository and place your
-solution in that file (please do not rename the file).</li>
-<li> Commit your completed R file into YOUR git repository and push your
-git branch to the GitHub repository under your account.</li>
-<li> Submit to Coursera the URL to your GitHub repository that contains
-the completed R code for the assignment.</li>
-</ol>
-
-<h3><a id="user-content-grading" class="anchor" href="#grading" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1h-1c-1.5 0-3-1.69-3-3.5s1.55-3.5 3-3.5h4c1.45 0 3 1.69 3 3.5 0 1.41-0.91 2.72-2 3.25v-1.16c0.58-0.45 1-1.27 1-2.09 0-1.28-1.02-2.5-2-2.5H4c-0.98 0-2 1.22-2 2.5s1 2.5 2 2.5z m9-3h-1v1h1c1 0 2 1.22 2 2.5s-1.02 2.5-2 2.5H9c-0.98 0-2-1.22-2-2.5 0-0.83 0.42-1.64 1-2.09v-1.16c-1.09 0.53-2 1.84-2 3.25 0 1.81 1.55 3.5 3 3.5h4c1.45 0 3-1.69 3-3.5s-1.5-3.5-3-3.5z"></path></svg></a>Grading</h3>
-
-<p>This assignment will be graded via peer assessment.</p>
-</article>
   </div>
 
 </div>
@@ -585,7 +680,7 @@ the completed R code for the assignment.</li>
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59 0.4 0.07 0.55-0.17 0.55-0.38 0-0.19-0.01-0.82-0.01-1.49-2.01 0.37-2.53-0.49-2.69-0.94-0.09-0.23-0.48-0.94-0.82-1.13-0.28-0.15-0.68-0.52-0.01-0.53 0.63-0.01 1.08 0.58 1.23 0.82 0.72 1.21 1.87 0.87 2.33 0.66 0.07-0.52 0.28-0.87 0.51-1.07-1.78-0.2-3.64-0.89-3.64-3.95 0-0.87 0.31-1.59 0.82-2.15-0.08-0.2-0.36-1.02 0.08-2.12 0 0 0.67-0.21 2.2 0.82 0.64-0.18 1.32-0.27 2-0.27 0.68 0 1.36 0.09 2 0.27 1.53-1.04 2.2-0.82 2.2-0.82 0.44 1.1 0.16 1.92 0.08 2.12 0.51 0.56 0.82 1.27 0.82 2.15 0 3.07-1.87 3.75-3.65 3.95 0.29 0.25 0.54 0.73 0.54 1.48 0 1.07-0.01 1.93-0.01 2.2 0 0.21 0.15 0.46 0.55 0.38C13.71 14.53 16 11.53 16 8 16 3.58 12.42 0 8 0z"></path></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2016 <span title="0.03946s from github-fe124-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2016 <span title="0.04382s from github-fe126-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
